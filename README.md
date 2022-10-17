@@ -16,7 +16,7 @@ evaluado con nota mínima de manera inmediata.
 • No se podrá apelar posteriormente por ninguna falta de un integrante, ya sea por
 motivos de: ’mi compañero no aportó nada al trabajo’ o ’al momento de enviar del
 trabajo se me olvidó colocar su nombre’.
-• El env´ıo de la resolución del taller deber´a ser enviado al correo xxxxx con
+• El envío de la resolución del taller deberá ser enviado al correo xxxxx con
 el título ’Taller 1 xx yy’, donde xx corresponde al nombre del primer estudiante e
 yy al nombre del segundo estudiante si lo hubiera.
 
@@ -37,7 +37,6 @@ del segundo semestre.
 
 Por último, recordarles que cada supuesto que ustedes realicen deberá estar documentado, tanto en el documento escrito como en el código como comentario.
 
-1
 1. Identificar los tipos de variables en el set de datos y proponer potenciales usos.
 2. Aplicar transformación de datos según corresponda.
 3. Realizar agrupamiento de categorías similares en los datos categóricos
